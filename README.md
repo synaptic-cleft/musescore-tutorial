@@ -55,13 +55,65 @@ Start slow and increase speed when your pitch and rhythm are solid. You can adju
 ## Write music
 For most pieces, there are already digital versions available that you can practice with. However, for some pieces there is only a pdf version or even just a printed version available.  
 
-You can transcribe the music yourself easily. The more time you spend on your transcription the more detail you can add. In this part of the tutorial you'll learn how to efficiently transcribe sheet music so you can spend more time on practicing your singing instead of typing out music.  
+You can transcribe the music yourself easily but it can be time-consuming. In this part of the tutorial you'll learn how to efficiently transcribe sheet music so you can spend more time on practicing your singing instead of typing out music.  
 
-<!-- In this example, 
-transferring from pdf
-new file
-short-cuts, order of rhythm, then pitch
+For this example, we'll transcribe Bach's "Vom Himmel Hoch". First, open a new file, choose `choral / SATB` and set it up with the correct key and time signature.
 
+<!-- unused screenshot for SATB, probably not necessary to add -->
+![New file setup](./pics/newSetup.png)
+
+For pure singing practice the notes in correct rhythm should be sufficient. Therefore, we will focus on this in this tutorial. You can insert all notes by first clicking on the correct rhythm on the note input bar and then clicking the correct pitch on the staff lines. However, this becomes tedious easily.
+
+![Transcribe sheet music](./pics/insertNotes.png)
+
+You can also input notes by using your keyboard. Just type the letter of the note you want to insert. This will give you the correct pitch but at the currently selected duration.  
+
+And this is a bit of a caveat. Before you insert a note by pressing the correct pitch, you should select its duration. This is somewhat counter-intuitive and you simply have to get used to the order. You can choose the duration using the note input bar or by using the number 2-7 on your keyboard. 4 is an eighth note, 5 is a quater note. Hover with your mouse the items in your note input bar to check which number to use.
+
+![Note input bar for durations](./pics/noteInputBar.png)
+
+Since the letters of a normal scale (cdefgabc) can all be typed with your left hand, you can use your right hand to select the durations. 
+
+In the "Vom Himmel Hoch" example the first 4 measures of soprano can be inserted with the following keystrokes:  
+```
+5 C B A
+4 B A
+5 G A B C C G
+4 G F E F
+5 G F E E A A
+4 G A
+5 B
+```
+
+Note: I could have written this as one string but used a new line in the representation to indicate the switches in note durations.
+
+Remember: Always first select the duration and insert the pitch afterrwards!  
+
+The switching between rhythm and pitch can be mentally exhausting. If you need to insert music which has a lot of rhythmic changes, you may prefer inserting the durations first and adjust the pitches later. You can try to insert the alto part this way: First focus on the duration and instead of adding the correct pitch, always use the same pitch. 
+
+![Insert rhythm first](./pics/rhythmFirst.png)
+
+The first 4 measures of the alto part would look like this:  
+
+```
+5 G
+4 G G
+5 G G
+4 G G
+5 G G G G G G G G G G G G
+```
+
+Then go back to the beginning of the sheet music and adjust the pitch by pressing the up and down keys to move the notes in place.
+
+![Re-pitch by hand](./pics/repitchNotes.png)
+
+You can even save more keystrokes when you switch to `re-pitch` mode in the note input bar. Then you can re-pitch the notes easily by typing their pitch letter instead of pressing the arrow keys several times. When you operate in `re-pitch` mode, the already inserted note durations won't change.
+
+![Re-pitch mode](./pics/repitchMode.png)
+
+
+
+<!-- 
 save as score
 save as midi with current settings
 save as program-independent -->
