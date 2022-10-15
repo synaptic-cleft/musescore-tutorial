@@ -2,7 +2,6 @@
 
 MuseScore is a computer program to write sheet music. It is also excellent to practice choral music. In this tutorial you'll initially learn how to use MuseScore for your choral practice at home. The second part of the tutorial will give an overview on how you can write music in MuseScore if you only have the sheet music and no midi files or dedicated MuseScore files.
 
-
 ## Installation
 MuseScore is free. You can download it [here](https://musescore.org/en/download) and follow the installation guide. The installation will differ depending on which operating system you use. After installation you can start MuseScore and should get a start screen similar to this:  
 ![MuseScore start screen](./pics/startScreen.png)
@@ -47,10 +46,11 @@ Note that after changing your part to alto saxophone, the sheet music will look 
 Practicing means focusing on the difficult parts. In MuseScore you can loop certain notes or measures by shift-selecting them and then toggling the `Loop Playback` button next to the `Play` button.  
 ![Loop](./pics/loop.png)
 
-
 ### Practice at different speeds
 Start slow and increase speed when your pitch and rhythm are solid. You can adjust the overall playback speed by opening the `Play Panel` under `View/Play Panel`. The speed is adjusted percentually to the original playback speed.  
 ![Adjust playback speed in Play Panel](./pics/playPanel.png)
+
+All in all, MuseScore is great to practice your part. It's easy to get started and there are many options to adjust the music. If you haven't done so already: Give it a try!
 
 ## Write music
 For most pieces, there are already digital versions available that you can practice with. However, for some pieces there is only a pdf version or even just a printed version available.  
@@ -111,14 +111,9 @@ You can even save more keystrokes when you switch to `re-pitch` mode in the note
 
 ![Re-pitch mode](./pics/repitchMode.png)
 
+When you're done with your transcription, save the file in the MuseScore `.mscz` file format to make sure all details are saved. Additionally, export the file to `.midi` so other singers can use the practice file even if they don't use MuseScore.
 
-
-<!-- 
-save as score
-save as midi with current settings
-save as program-independent -->
-
-<!-- ## A word on file formats -->
+Should you have any questions about MuseScore, feel free to contact me!
 
 <!-- ## MuseScore alternatives
 paid version. you can use these programs to practice
@@ -126,4 +121,4 @@ Finale, Sibelius
 save as other format -->
 
 ## More
-If you want to learn more on MuseScore, check out the [YouTube videos](https://www.youtube.com/watch?v=YZ4kRzkHroU&list=PLTYuWi2LmaPGb4SKXHm9JULQ-0CH8KpUk) by George Hess. It's a series of small videos that will teach you the MuseScore notation basics.
+If you want to learn more about MuseScore, check out the [YouTube videos](https://www.youtube.com/watch?v=YZ4kRzkHroU&list=PLTYuWi2LmaPGb4SKXHm9JULQ-0CH8KpUk) by George Hess. It's a series of small videos that will teach you the MuseScore notation basics.
