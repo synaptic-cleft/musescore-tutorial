@@ -11,7 +11,7 @@ Please note that there is [www.musescore.ORG](https://www.musescore.org) from wh
 ## Practice with MuseScore
 In this section you'll learn how you can use MuseScore to practice your part. 
 
-You can download the `AveMaria.mscz` file from the Google Drive. If you're not a member of Novo Cantare, you can download the `Ave Maria` sheet music on [MuseScore.com](https://musescore.com/user/5373126/scores/4853136). You can start with a free trial there, so you won't directly need a paid subscription.  
+You can download the `AveMaria.mscz` file from the Google Drive. If you're not a member of Novo Cantare, you can download the `Ave Maria` sheet music on [MuseScore.com](https://musescore.com/user/5373126/scores/4853136). You can start with a free trial there, so you won't directly need a paid subscription. (The free trial still prompts you with credit card credentials. For a complete free example you can use this piece of [Saint-Saëns](https://imslp.org/wiki/Special:ImagefromIndex/575389/ayau).)  
 
 ![Example download from MuseScore.com](./pics/downloadSheet.png)
 
