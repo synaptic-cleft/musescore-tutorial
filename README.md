@@ -39,7 +39,9 @@ A properties window will pop up with a `Change Instrument...` button.
 For practicing choral parts I recommend to change your part to `Alto Saxophone` and the other parts to `Piano`. The Alto Saxophone sound is pleasant to sing along with and subtle Piano accompaniments help to learn your part in context to the other parts.
 ![Change playback instrument](./pics/instrumentChoice.png)
 
-Note that after changing your part to alto saxophone, the sheet music will look different since the saxophone is a es instrument which means that an `es` sounds when a `c` is played. However, this shouldn't bother you during practice. It's preferrable not to focus on MuseScore's sheet but on your printed sheet music so you're not dependent on the Playback cursor to indicate where on the sheet you are at the moment of singing.
+An alto saxophone is an `es` instrument which means that an `es` sounds when a `c` is played. To avoid that your sheet music gets rewritten (i.e. transposed) choose `0 - Perfect Unison` option next to the `Transposition` option.
+
+![Use perfect unisono option](./pics/perfectUnisono.png)
 
 ### Loop difficult parts
 Practicing means focusing on the difficult parts. In MuseScore you can loop certain notes or measures by shift-selecting them and then toggling the `Loop Playback` button next to the `Play` button.  
