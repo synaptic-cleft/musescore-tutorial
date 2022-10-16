@@ -6,13 +6,12 @@ MuseScore is a computer program to write sheet music. It is also excellent to pr
 MuseScore is free. You can download it [here](https://musescore.org/en/download) and follow the installation guide. The installation will differ depending on which operating system you use. After installation you can start MuseScore and should get a start screen similar to this:  
 ![MuseScore start screen](./pics/startScreen.png)
 
-Please note that there is [www.musescore.ORG](https://www.musescore.org) from where you can download the program and there is [www.musescore.COM](https://www.musescore.com) where you can get a paid subscription so you can download existing sheet music. You don't need the paid subscription for sheet music. The sheet music NovoCantare uses is provided to the members and can be found in the Google Drive.
+Please note that there is [www.musescore.ORG](https://www.musescore.org) from where you can download the program and there is [www.musescore.COM](https://www.musescore.com) where you can get a paid subscription so you can download existing sheet music. You don't need the paid subscription. The sheet music Novo Cantare uses is provided to its members and can be found in the Google Drive.
 
 ## Practice with MuseScore
-In this section you'll learn how to practice your part. You can download the `AveMaria.mscz` file from the Google Drive.
+In this section you'll learn how you can use MuseScore to practice your part. 
 
-If you're not a member of NovoCantare, you can download the `Ave Maria` sheet music on [MuseScore.com](https://musescore.com/user/5373126/scores/4853136). You can start with a free trial there, so you won't directly need a paid subscription.  
-
+You can download the `AveMaria.mscz` file from the Google Drive. If you're not a member of Novo Cantare, you can download the `Ave Maria` sheet music on [MuseScore.com](https://musescore.com/user/5373126/scores/4853136). You can start with a free trial there, so you won't directly need a paid subscription.  
 
 ![Example download from MuseScore.com](./pics/downloadSheet.png)
 
@@ -20,7 +19,7 @@ When you open the `AveMaria.mscz` file you can directly play the sheet music by 
 
 ![Play button](./pics/playback.png)
 
-<!-- add comparison to midi files where you cannot adjust easily for practice -->
+The playback is similar to playing a standard `.midi` file. The power of MuseScore for practicing is that you can adjust volumme, speed and modify the individual parts' playback to break down the difficulties of a piece and incrementally learn the music.
 
 ### Adjust the volume of a part
 Often when practicing a new piece you want to specifically focus on your part. You can increase the volume by opening the `Mixer` under `View/Mixer` and adjusting the volume of your part to enhance the contrast to the other parts. You can also use the green `S` button to only play a single part or use the red `M` button to mute specific other parts.
@@ -115,10 +114,10 @@ When you're done with your transcription, save the file in the MuseScore `.mscz`
 
 Should you have any questions about MuseScore, feel free to contact me!
 
-<!-- ## MuseScore alternatives
-paid version. you can use these programs to practice
-Finale, Sibelius
-save as other format -->
+## MuseScore alternatives
+There are two widely used alternatives to MuseScore, namely Sibelius and Finale. Both alternatives work fine but they are not free to use. Novo Cantare uses MuseScore by default to make the music available to all its members. You can still use the other programs to practice if you like. The `.midi` files can be opened in both Sibelius and Finale.
+
+<!-- Technically the `musicXML` file format would be better to use since not all data gets saved in midi. For the average choir member, this may just be overhead information and is therefore skipped here. Should we notice that many people prefer Finale or Sibelius we can adjust and juse `musicXML` formats. -->
 
 ## More
 If you want to learn more about MuseScore, check out the [YouTube videos](https://www.youtube.com/watch?v=YZ4kRzkHroU&list=PLTYuWi2LmaPGb4SKXHm9JULQ-0CH8KpUk) by George Hess. It's a series of small videos that will teach you the MuseScore notation basics.
