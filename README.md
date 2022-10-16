@@ -1,12 +1,12 @@
 # Practicing choral music with MuseScore
 
-MuseScore is a computer program to write sheet music. It is also excellent to practice choral music. In this tutorial you'll initially learn how to use MuseScore for your choral practice at home. The second part of the tutorial will give an overview on how you can write music in MuseScore if you only have the sheet music and no midi files or dedicated MuseScore files.
+MuseScore is a computer program to write sheet music. It is also excellent to practice choral music with. In this tutorial you'll initially learn how to use MuseScore for your choral practice at home. The second part of the tutorial will give an overview on how you can write music in MuseScore if you only have the sheet music and no midi files or dedicated MuseScore files.
 
 ## Installation
 MuseScore is free. You can download it [here](https://musescore.org/en/download) and follow the installation guide. The installation will differ depending on which operating system you use. After installation you can start MuseScore and should get a start screen similar to this:  
 ![MuseScore start screen](./pics/startScreen.png)
 
-Please note that there is [www.musescore.ORG](https://www.musescore.org) from where you can download the program and there is [www.musescore.COM](https://www.musescore.com) where you can get a paid subscription so you can download existing sheet music. You don't need the paid subscription. The sheet music Novo Cantare uses is provided to its members and can be found in the Google Drive.
+Please note that there is [www.musescore.ORG](https://www.musescore.org) from where you can download the program and there is [www.musescore.COM](https://www.musescore.com) where you can get a paid subscription so you can download existing sheet music. You don't need the paid subscription. The sheet music Novo Cantare uses is provided to its members and can be found in Novo Cantare's Google Drive.
 
 ## Practice with MuseScore
 In this section you'll learn how you can use MuseScore to practice your part. 
@@ -15,19 +15,19 @@ You can download the `AveMaria.mscz` file from the Google Drive. If you're not a
 
 ![Example download from MuseScore.com](./pics/downloadSheet.png)
 
-When you open the `AveMaria.mscz` file you can directly play the sheet music by pressing the space bar or the play button. Press the space bar again to stop the music. It's handy to get used to keyboard short-cuts directly in order to get quicker in moving around the sheet.
+When you open the `AveMaria.mscz` file you can directly play the sheet music by pressing the space bar or the play button. Press the space bar again to stop the music. It's handy to get used to keyboard shortcuts directly in order to get quicker in moving around the sheet.
 
 ![Play button](./pics/playback.png)
 
-The playback is similar to playing a standard `.midi` file. The power of MuseScore for practicing is that you can adjust volumme, speed and modify the individual parts' playback to break down the difficulties of a piece and incrementally learn the music.
+The playback is similar to playing a standard `.midi` file. The power of MuseScore for practicing is that you can adjust volume and speed, and modify the individual parts' playback to break down the difficulties of a piece and incrementally learn the music.
 
 ### Adjust the volume of a part
-Often when practicing a new piece you want to specifically focus on your part. You can increase the volume by opening the `Mixer` under `View/Mixer` and adjusting the volume of your part to enhance the contrast to the other parts. You can also use the green `S` button to only play a single part or use the red `M` button to mute specific other parts.
+Often when practicing a new piece you want to specifically focus on your part. You can increase the volume by opening the `Mixer` in the `View` menu and adjusting the volume of your part to enhance the contrast with the other parts. You can also use the green `S` button to only play a single part or use the red `M` button to mute specific other parts.
 
 ![Adjust volume for specific part in Mixer](./pics/mixer.png)
 
 ### Checking your pitch
-There are critics on using music software to practice choral music altogether. It's temptative to just sing along a computer voice. It is still very important to eventually know what note will follow another. You can practice this in MuseScore, too. Just press the space bar to pause the playback and sing the following note. You can then click on the note to hear if your pitch was correct.  
+There are critics on using music software to practice choral music altogether. It's tempting to just sing along with a computer voice. It is still very important to eventually know what note will follow another. You can practice this in MuseScore, too. Just press the space bar to pause the playback and sing the following note. You can then click on the note to hear if your pitch was correct.  
 
 You can also use the Mixer's mute functionality (the `M` button mentioned above) for this. During playback, press the mute button for your part, keep on singing and unmute the part again. This way you can practice to stay on pitch.
 
@@ -48,7 +48,7 @@ Practicing means focusing on the difficult parts. In MuseScore you can loop cert
 ![Loop](./pics/loop.png)
 
 ### Practice at different speeds
-Start slow and increase speed when your pitch and rhythm are solid. You can adjust the overall playback speed by opening the `Play Panel` under `View/Play Panel`. The speed is adjusted percentually to the original playback speed.  
+Start slow and increase speed when your pitch and rhythm are solid. You can adjust the overall playback speed by opening the `Play Panel` in the `View` menu. The speed is adjusted percentually to the original playback speed.  
 ![Adjust playback speed in Play Panel](./pics/playPanel.png)
 
 All in all, MuseScore is great to practice your part. It's easy to get started and there are many options to adjust the music. If you haven't done so already: Give it a try!
@@ -63,7 +63,7 @@ For this example, we'll transcribe Bach's "Vom Himmel Hoch". First, open a new f
 <!-- unused screenshot for SATB, probably not necessary to add -->
 ![New file setup](./pics/newSetup.png)
 
-For pure singing practice the notes in correct rhythm should be sufficient. Therefore, we will focus on this in this tutorial. You can insert all notes by first clicking on the correct rhythm on the note input bar and then clicking the correct pitch on the staff lines. However, this becomes tedious easily.
+For pure singing practice the notes in correct rhythm should be sufficient. Therefore, we will focus on this in this tutorial. You can insert all notes by first clicking on the correct rhythm on the note input bar and then clicking the correct pitch on the staff lines. However, this quickly becomes tedious.
 
 ![Transcribe sheet music](./pics/insertNotes.png)
 
@@ -89,7 +89,7 @@ In the "Vom Himmel Hoch" example the first 4 measures of soprano can be inserted
 
 Note: I could have written this as one string but used a new line in the representation to indicate the switches in note durations.
 
-Remember: Always first select the duration and insert the pitch afterrwards!  
+Remember: Always first select the duration and then the pitch!  
 
 The switching between rhythm and pitch can be mentally exhausting. If you need to insert music which has a lot of rhythmic changes, you may prefer inserting the durations first and adjust the pitches later. You can try to insert the alto part this way: First focus on the duration and instead of adding the correct pitch, always use the same pitch. 
 
@@ -109,7 +109,7 @@ Then go back to the beginning of the sheet music and adjust the pitch by pressin
 
 ![Re-pitch by hand](./pics/repitchNotes.png)
 
-You can even save more keystrokes when you switch to `re-pitch` mode in the note input bar. Then you can re-pitch the notes easily by typing their pitch letter instead of pressing the arrow keys several times. When you operate in `re-pitch` mode, the already inserted note durations won't change.
+You can even save more keystrokes when you switch to `re-pitch` mode in the note input bar. Then you can re-pitch the notes easily by typing their pitch letter instead of pressing the arrow keys several times. When you operate in `re-pitch` mode, the already chosen duration of the notes won't change.
 
 ![Re-pitch mode](./pics/repitchMode.png)
 
