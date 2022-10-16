@@ -73,7 +73,8 @@ And this is a bit of a caveat. Before you insert a note by pressing the correct 
 
 ![Note input bar for durations](./pics/noteInputBar.png)
 
-Since the letters of a normal scale (cdefgabc) can all be typed with your left hand, you can use your right hand to select the durations. 
+Since the letters of a normal scale (cdefgabc) can all be typed with your left hand, you can use your right hand to select the durations. You can insert sharps and flats by going back to the note with the `left` key and adjust the note with the `up` or `down` key.  
+<!-- Maybe add an extra section on rests? -->
 
 In the "Vom Himmel Hoch" example the first 4 measures of soprano can be inserted with the following keystrokes:  
 ```
