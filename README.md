@@ -1,6 +1,7 @@
 # Practicing choral music with MuseScore
+Currently we practice with `midi` files. The files are played similar to `mp3` music by default: You can listen but not modify the music. For each choral voice, an extra `midi` file is provided with a focus (volume and instrument) on that part. However, there is a better tool for practicing choral music: MuseScore.  
 
-MuseScore is a computer program to write sheet music. It is also excellent to practice choral music with. In this tutorial you'll initially learn how to use MuseScore for your choral practice at home. The second part of the tutorial will give an overview on how you can write music in MuseScore if you only have the sheet music and no midi files or dedicated MuseScore files.
+MuseScore is a computer program to write sheet music but it is also excellent to practice choral music with. In this tutorial you'll initially learn how to use MuseScore for your choral practice at home. The second part of the tutorial will give an overview on how you can write music in MuseScore if you only have the sheet music and no midi files or dedicated MuseScore files.
 
 ## Installation
 MuseScore is free. You can download it [here](https://musescore.org/en/download) and follow the installation guide. The installation will differ depending on which operating system you use. After installation you can start MuseScore and should get a start screen similar to this:  
