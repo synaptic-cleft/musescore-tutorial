@@ -55,9 +55,9 @@ Start slow and increase speed when your pitch and rhythm are solid. You can adju
 All in all, MuseScore is great to practice your part. It's easy to get started and there are many options to adjust the music. If you haven't done so already: Give it a try!
 
 ## Write music
-For most pieces, there are already digital versions available that you can practice with. However, for some pieces there is only a pdf version or even just a printed version available.  
+For most pieces, there are already digital versions available that you can practice with. However, for some pieces there is only a pdf version or even just a printed version available. In these cases, we need to digitize the music ourselves.   
 
-You can transcribe the music yourself easily but it can be time-consuming. In this part of the tutorial you'll learn how to efficiently transcribe sheet music so you can spend more time on practicing your singing instead of typing out music.  
+With MuseScore you can transcribe the music yourself easily but it can be time-consuming. In this part of the tutorial you'll learn how to efficiently transcribe sheet music so you can spend more time on practicing your singing instead of typing out music.  
 
 For this example, we'll transcribe Bach's "Vom Himmel Hoch". First, open a new file, choose `choral / SATB` and set it up with the correct key and time signature.
 
